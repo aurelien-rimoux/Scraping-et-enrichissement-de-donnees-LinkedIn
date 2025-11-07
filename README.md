@@ -8,7 +8,7 @@
 
 ## 🔹 Résumé du projet
 Ce projet vise à automatiser le **scraping et l’enrichissement de données LinkedIn** afin de fiabiliser les fichiers clients et mesurer le taux d’insertion professionnelle des anciens étudiants.  
-Le résultat final permet à l’entreprise de préparer des dossiers fiables pour **France Compétences**.  
+Le résultat final permet à l’entreprise de préparer des dossiers fiables pour **France Compétences** avec un taux de réponse supérieur à 80%.
 
 Le workflow combine :
 - Le **scraping via Apify** pour récupérer les données LinkedIn.  
@@ -28,7 +28,7 @@ Le workflow combine :
 ## 🛠 Technologies
 - **Python** : traitement, nettoyage et enrichissement des données.
 - **APIFY** : scraping automatisé LinkedIn.
-- **Pandas / OpenPyXL** : manipulation et export Excel.
+- **Pandas / OpenPyXL / Numpy** : manipulation et export Excel.
 
 ---
 
@@ -40,4 +40,9 @@ Le workflow combine :
 
 ---
 
-## 📂 Structure du projet
+## 📈 Résultats
+
+- Fichier Excel final **enrichi et structuré** selon les besoins du client.
+- Processus **semi automatisé** pour faciliter la mise à jour des données.
+- Amélioration significative du taux de réponses : **+80% de répondants**
+- Fichier Excel au format **France Compétences**
