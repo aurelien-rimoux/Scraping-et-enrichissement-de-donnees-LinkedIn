@@ -11,9 +11,13 @@ Ce projet vise à automatiser le **scraping et l’enrichissement de données Li
 Le résultat final permet à l’entreprise de préparer des dossiers fiables pour **France Compétences** avec un taux de réponse supérieur à 80%.
 
 Le workflow combine :
+- La recherche des liens LinkedIn des étudiants via **Phantom Buster**.
 - Le **scraping via Apify** pour récupérer les données LinkedIn.  
 - Le **traitement Python** pour nettoyer, transformer et appliquer les règles métier.  
 - La génération d’un **fichier Excel final enrichi**.
+
+
+![Méthodologie](diagrams/methodologie.jpg)
 
 ---
 
