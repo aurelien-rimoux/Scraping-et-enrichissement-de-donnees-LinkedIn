@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
 [![Apify](https://img.shields.io/badge/Apify-FF6600?style=flat)](https://apify.com/) 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![PhantomBuster](https://img.shields.io/badge/PhantomBuster-E6007A?style=flat&logo=phantombuster&logoColor=white)](https://phantombuster.com/)
 
 ---
 
